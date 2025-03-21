@@ -1,0 +1,18 @@
+Overarching goal --> perform CAPs analysis on code writing data to see if there are differences between loops and conditionals, for example
+
+Running CAPs using MATLAB code from TbCAPS:
+1. CAP_ConsensusClustering
+2. ComputeClusteringQuality
+3. Kmax - valid number of kmax chosen
+4. handles.K - number of clusters
+5. n_rep - number of repetitions
+6. percentages of positive/negative voxels to keep
+7. Run_Clustering
+8. computing similarity
+
+
+
+
+
+
+
