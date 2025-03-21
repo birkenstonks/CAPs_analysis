@@ -1,1 +1,1 @@
-this is a test
+Computing coactivation patterns for fMRI data
